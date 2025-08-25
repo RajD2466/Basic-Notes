@@ -1,0 +1,60 @@
+# Basic Notes on Programming Languages (Python & Java)
+
+## 1. What is a Programming Language?
+- A programming language is a set of instructions used to communicate with a computer.
+- It helps us write code to solve problems, automate tasks, and build applications.
+
+## 2. Python
+- Type: High-level, interpreted, object-oriented.
+- Easy to Learn: Simple syntax, similar to English.
+
+**Features:**
+- Dynamically typed (no need to declare variable type).
+- Large library support (for AI, data science, web, etc.).
+- Cross-platform (works on Windows, Mac, Linux).
+
+**Uses:**
+- Web Development (Django, Flask)
+- Data Science, Machine Learning (Pandas, TensorFlow)
+- Automation & Scripting
+
+**Example Code:**
+```python
+print("Hello, World!")
+```
+
+## 3. Java
+- Type: High-level, compiled + interpreted, object-oriented.
+- Widely Used: Popular for enterprise, Android apps, backend systems.
+
+**Features:**
+- Statically typed (need to declare variable type).
+- Platform-independent (via JVM – Java Virtual Machine).
+- Strong OOP support (classes, objects, inheritance, etc.).
+
+**Uses:**
+- Android App Development
+- Enterprise Applications (Banking, ERP systems)
+- Web Applications (Spring Framework)
+
+**Example Code:**
+```java
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+
+## 4. Key Differences Between Python & Java
+
+| Feature       | Python                          | Java                          |
+|---------------|---------------------------------|-------------------------------|
+| Typing        | Dynamically typed               | Statically typed              |
+| Speed         | Slower (interpreted)            | Faster (compiled to bytecode) |
+| Syntax        | Simple, short, easy             | Verbose, more code needed     |
+| Use Cases     | AI, Data Science, Automation    | Mobile apps, Enterprise apps  |
+
+## 5. Conclusion
+- Python is best for beginners, AI, and rapid development.
+- Java is best for Android apps, enterprise solutions, and large-scale projects.
